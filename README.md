@@ -8,4 +8,4 @@ W, A, S, D 控制角色移动；
 
 Space 跳跃（默认状态下是二段跳）；
 
-鼠标滚轮调整 timeScale；
+鼠标滚轮调整 timeScale。
